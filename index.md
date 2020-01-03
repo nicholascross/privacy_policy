@@ -10,7 +10,7 @@ A copy of the Australian Privacy Principles may be obtained from the website of 
 
 Personal Information is information or an opinion that identifies an individual. Examples of Personal Information we collect include: names, addresses, email addresses, phone and facsimile numbers.
 
-This Personal Information is obtained in many ways including by email, via our support website nacrossweb.uservoice.com, from other publicly available sources and from third parties. We don’t guarantee website links or policy of authorised third parties.
+This Personal Information is obtained in many ways including by email, via our support website nacrossweb.uservoice.com, via our mobile applications, from other publicly available sources and from third parties. We don’t guarantee website links or policy of authorised third parties.
 
 We collect your Personal Information for the primary purpose of providing our services to you, providing information to our clients and marketing. We may also use your Personal Information for secondary purposes closely related to the primary purpose, in circumstances where you would reasonably expect such use or disclosure. You may unsubscribe from our mailing/marketing lists at any time by contacting us in writing.
 
